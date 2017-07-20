@@ -1,1 +1,7 @@
-/target/
+.classpath
+.project
+.settings
+target
+test-output
+m2e-wtp
+.DS_Store
